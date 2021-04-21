@@ -23,8 +23,8 @@ before:
 # Create one step for each action that a learner will complete
 
 steps:
-# Step 1: EDIT HERE - INTERNAL COMMENT DESCRIBING STEP 
-- title: # the title of the step, shown to the learner in the course progress page
+# Step 1: VALAB - INTERNAL COMMENT DESCRIBING STEP 
+- Markdown1: # the title of the step, shown to the learner in the course progress page
   description: # a description of the step, shown to the learner in the course progress page
   event: # the event that will trigger the actions to be executed, full list at https://developer.github.com/v3/activity/events/types/
   actions: # a list of the actions that will occur when the step is triggered by an event
